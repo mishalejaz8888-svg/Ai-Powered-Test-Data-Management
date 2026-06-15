@@ -34,13 +34,6 @@ Engineering teams routinely burn days hand-crafting test data, and that data is 
 
 ---
 
-## Demo
-
-| Resource | Link |
-| -------- | ---- |
-| Live Demo | _Add deployment URL_ |
-| GitHub Repository | _Add repository URL_ |
-| Loom Video Walkthrough | _Add Loom URL_ |
 
 ---
 
